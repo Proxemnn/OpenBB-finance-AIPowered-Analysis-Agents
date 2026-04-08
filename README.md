@@ -139,3 +139,25 @@ erDiagram
 <a href="https://github.com/OpenBB-finance/OpenBB/graphs/contributors">
    <img src="https://contributors-img.web.app/image?repo=OpenBB-finance/OpenBB" width="800"/>
 </a>
+
+
+## Installation
+
+```bash
+pip install package-name
+```
+
+
+## Usage
+
+```python
+import package_name
+
+# Example usage
+print("Hello World")
+```
+
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
